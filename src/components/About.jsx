@@ -89,7 +89,7 @@ const About = () => {
 
 Hello! I am poomaniselvam, a passionate and creative  web developer based in chennai. im fresher for this job, I specialize in developing user-friendly websites .
 
-I thrive on challenges and am driven by a commitment to excellence and a love for innovation. My journey in [your field/industry] began with a deep fascination for [related interest, e.g., technology, storytelling, visual arts], which has evolved into a fulfilling career where I get to turn ideas into reality.
+I thrive on challenges and am driven by a commitment to excellence and a love for innovation. My journey in frontend developer began with a deep fascination for HTML,CSS,JS,PHP,REACT.JS,MYSQL,BOOTSTARP which has evolved into a fulfilling career where I get to turn ideas into reality.
 
 Throughout my career, I have had the privilege to work with a diverse range of clients, from startups to established companies, helping them achieve their goals through bespoke solutions and strategic insights. My approach is collaborative and client-focused, ensuring that every project not only meets but exceeds expectations.
 
@@ -192,15 +192,15 @@ When I am not immersed in my work.</p>
 
           <div className="col-md-3">
           <img src={css} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>mysql</h1>
+            <h1>CSS</h1>
           </div>
           <div className="col-md-3">
           <img src={js} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>php</h1>
+            <h1>JS</h1>
           </div>
           <div className="col-md-3">
           <img src={boots} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>css</h1>
+            <h1>Bootstrap</h1>
           </div>
           </div>
 
@@ -209,20 +209,20 @@ When I am not immersed in my work.</p>
           <div className="row " id="text-row">
           <div className="col-md-3">
           <img src={php} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>HTML</h1>
+            <h1>PHP</h1>
           </div>
 
           <div className="col-md-3">
           <img src={mysql} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>mysql</h1>
+            <h1>Mysql</h1>
           </div>
           <div className="col-md-3">
           <img src={wp} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>php</h1>
+            <h1>Wordpress</h1>
           </div>
           <div className="col-md-3">
           <img src={rea} alt="profile" style={{ width: '70px', height: '70px', objectFit: 'cover', borderRadius: '8px' }} />
-            <h1>css</h1>
+            <h1>React</h1>
           </div>
           </div>
 
@@ -237,7 +237,6 @@ When I am not immersed in my work.</p>
               <div className='row' id='contact-row'>
               <div className="col-md-6">
               <h1>DROP ME A MESSAGE</h1>
-              <h2>Lorem ipsum, dolor sit amet consectetur adipisicdfd</h2>
 
               <h2>+91 8680800512</h2>
               <h2>poomaniselvam@gmail.com</h2>
